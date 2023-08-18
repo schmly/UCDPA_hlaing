@@ -3,18 +3,19 @@ UCDPA Project Assignment
 
 
 
-# Hierarchy
+# Structure
+project
+├─ problem definition
+├─ data preparation
+│  ├─ preprocessing
+│  ├─ data transformation
+├─ algorithm evaluation
+├─ improvement
+├─ results
 
 
-my-app/
-├─ node_modules/
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
-├─ src/
-│  ├─ index.css
-│  ├─ index.js
-├─ .gitignore
-├─ package.json
-├─ README.md
+# todo
+- problem with sparse outcome
+- use imbalanced-learn https://imbalanced-learn.org/stable/index.html
+
+
