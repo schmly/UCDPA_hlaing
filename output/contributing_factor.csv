@@ -1,0 +1,56 @@
+contributing_factor,cf,n
+Aggressive Driving/Road Rage,ADRR,0
+Pavement Slippery,PS,0
+Following Too Closely,FTC,0
+Unspecified,U,0
+Passing Too Closely,PTC,0
+Driver Inexperience,DI,0
+Passing or Lane Usage Improper,POLUI,0
+Turning Improperly,TI,0
+Unsafe Lane Changing,ULC,0
+Unsafe Speed,US,0
+Reaction to Uninvolved Vehicle,RTUV,0
+Steering Failure,SF,0
+Traffic Control Disregarded,TCD,0
+Other Vehicular,OV,0
+Driver Inattention/Distraction,DID,0
+Oversized Vehicle,OV1,1
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,PBOPEC,0
+Alcohol Involvement,AI,0
+View Obstructed/Limited,VOL,0
+Failure to Yield Right-of-Way,FTYROW,0
+Illnes,I,0
+Lost Consciousness,LC,0
+Brakes Defective,BD,0
+Backing Unsafely,BU,0
+Glare,G,0
+Passenger Distraction,PD,0
+Fell Asleep,FA,0
+Obstruction/Debris,OD,0
+Tinted Windows,TW,0
+Animals Action,AA,0
+Drugs (illegal),DI1,1
+Pavement Defective,PD1,1
+Other Lighting Defects,OLD,0
+Outside Car Distraction,OCD,0
+Driverless/Runaway Vehicle,DRV,0
+Tire Failure/Inadequate,TFI,0
+Fatigued/Drowsy,FD,0
+Headlights Defective,HD,0
+Accelerator Defective,AD,0
+Failure to Keep Right,FTKR,0
+Physical Disability,PD2,2
+Eating or Drinking,EOD,0
+Cell Phone (hands-free),CPHF,0
+Lane Marking Improper/Inadequate,LMII,0
+Cell Phone (hand-Held),CPHH,0
+Using On Board Navigation Device,UOBND,0
+Other Electronic Device,OED,0
+Traffic Control Device Improper/Non-Working,TCDINW,0
+Tow Hitch Defective,THD,0
+Windshield Inadequate,WI,0
+Vehicle Vandalism,VV,0
+Prescription Medication,PM,0
+Shoulders Defective/Improper,SDI,0
+Listening/Using Headphones,LUH,0
+Texting,T,0
